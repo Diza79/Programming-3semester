@@ -1,1 +1,0 @@
-void clearConsole() { system("@cls||clear"); } // Чистка консоли
