@@ -1,5 +1,0 @@
-C:\Users\Даниил\Desktop\WinFormsApp1.exe
-C:\Users\Даниил\Desktop\WinFormsApp1.dll
-C:\Users\Даниил\Desktop\WinFormsApp1.deps.json
-C:\Users\Даниил\Desktop\WinFormsApp1.runtimeconfig.json
-C:\Users\Даниил\Desktop\WinFormsApp1.pdb
