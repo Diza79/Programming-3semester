@@ -1,0 +1,5 @@
+C:\Users\Даниил\Desktop\ПРоект №2\WinFormsApp1.exe
+C:\Users\Даниил\Desktop\ПРоект №2\WinFormsApp1.dll
+C:\Users\Даниил\Desktop\ПРоект №2\WinFormsApp1.deps.json
+C:\Users\Даниил\Desktop\ПРоект №2\WinFormsApp1.runtimeconfig.json
+C:\Users\Даниил\Desktop\ПРоект №2\WinFormsApp1.pdb

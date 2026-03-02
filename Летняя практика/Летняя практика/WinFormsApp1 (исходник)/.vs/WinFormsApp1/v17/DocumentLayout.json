@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041B\u0435\u0442\u043D\u044F\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WinFormsApp1 (\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC24E4-1CAD-43A7-8E99-27D2E63E024E}|WinFormsApp1\\WinFormsApp1.csproj|d:\\\u043B\u0435\u0442\u043D\u044F\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\winformsapp1 (\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A)\\winformsapp1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FC24E4-1CAD-43A7-8E99-27D2E63E024E}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC24E4-1CAD-43A7-8E99-27D2E63E024E}|WinFormsApp1\\WinFormsApp1.csproj|d:\\\u043B\u0435\u0442\u043D\u044F\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\winformsapp1 (\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A)\\winformsapp1\\editcarform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FC24E4-1CAD-43A7-8E99-27D2E63E024E}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\editcarform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC24E4-1CAD-43A7-8E99-27D2E63E024E}|WinFormsApp1\\WinFormsApp1.csproj|d:\\\u043B\u0435\u0442\u043D\u044F\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\winformsapp1 (\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A)\\winformsapp1\\addcarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FC24E4-1CAD-43A7-8E99-27D2E63E024E}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\addcarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC24E4-1CAD-43A7-8E99-27D2E63E024E}|WinFormsApp1\\WinFormsApp1.csproj|d:\\\u043B\u0435\u0442\u043D\u044F\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\winformsapp1 (\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A)\\winformsapp1\\searchcarform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FC24E4-1CAD-43A7-8E99-27D2E63E024E}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\searchcarform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC24E4-1CAD-43A7-8E99-27D2E63E024E}|WinFormsApp1\\WinFormsApp1.csproj|D:\\\u041B\u0435\u0442\u043D\u044F\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WinFormsApp1 (\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A)\\winformsapp1\\searchcarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0FC24E4-1CAD-43A7-8E99-27D2E63E024E}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\searchcarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC24E4-1CAD-43A7-8E99-27D2E63E024E}|WinFormsApp1\\WinFormsApp1.csproj|d:\\\u043B\u0435\u0442\u043D\u044F\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\winformsapp1 (\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A)\\winformsapp1\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FC24E4-1CAD-43A7-8E99-27D2E63E024E}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC24E4-1CAD-43A7-8E99-27D2E63E024E}|WinFormsApp1\\WinFormsApp1.csproj|d:\\\u043B\u0435\u0442\u043D\u044F\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\winformsapp1 (\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A)\\winformsapp1\\deletecarform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FC24E4-1CAD-43A7-8E99-27D2E63E024E}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\deletecarform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC24E4-1CAD-43A7-8E99-27D2E63E024E}|WinFormsApp1\\WinFormsApp1.csproj|d:\\\u043B\u0435\u0442\u043D\u044F\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\winformsapp1 (\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A)\\winformsapp1\\addcarform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FC24E4-1CAD-43A7-8E99-27D2E63E024E}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\addcarform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC24E4-1CAD-43A7-8E99-27D2E63E024E}|WinFormsApp1\\WinFormsApp1.csproj|d:\\\u043B\u0435\u0442\u043D\u044F\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\winformsapp1 (\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A)\\winformsapp1\\searchcarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FC24E4-1CAD-43A7-8E99-27D2E63E024E}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\searchcarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC24E4-1CAD-43A7-8E99-27D2E63E024E}|WinFormsApp1\\WinFormsApp1.csproj|d:\\\u043B\u0435\u0442\u043D\u044F\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\winformsapp1 (\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A)\\winformsapp1\\editcarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FC24E4-1CAD-43A7-8E99-27D2E63E024E}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\editcarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC24E4-1CAD-43A7-8E99-27D2E63E024E}|WinFormsApp1\\WinFormsApp1.csproj|d:\\\u043B\u0435\u0442\u043D\u044F\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\winformsapp1 (\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A)\\winformsapp1\\deletecarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FC24E4-1CAD-43A7-8E99-27D2E63E024E}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\deletecarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC24E4-1CAD-43A7-8E99-27D2E63E024E}|WinFormsApp1\\WinFormsApp1.csproj|D:\\\u041B\u0435\u0442\u043D\u044F\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WinFormsApp1 (\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A)\\winformsapp1\\deletecarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0FC24E4-1CAD-43A7-8E99-27D2E63E024E}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\deletecarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC24E4-1CAD-43A7-8E99-27D2E63E024E}|WinFormsApp1\\WinFormsApp1.csproj|D:\\\u041B\u0435\u0442\u043D\u044F\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WinFormsApp1 (\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A)\\winformsapp1\\addcarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0FC24E4-1CAD-43A7-8E99-27D2E63E024E}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\addcarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC24E4-1CAD-43A7-8E99-27D2E63E024E}|WinFormsApp1\\WinFormsApp1.csproj|D:\\\u041B\u0435\u0442\u043D\u044F\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WinFormsApp1 (\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A)\\winformsapp1\\editcarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0FC24E4-1CAD-43A7-8E99-27D2E63E024E}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\editcarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC24E4-1CAD-43A7-8E99-27D2E63E024E}|WinFormsApp1\\WinFormsApp1.csproj|D:\\\u041B\u0435\u0442\u043D\u044F\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WinFormsApp1 (\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A)\\winformsapp1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0FC24E4-1CAD-43A7-8E99-27D2E63E024E}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 149,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 224,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SearchCarForm.cs",
+              "DocumentMoniker": "D:\\\u041B\u0435\u0442\u043D\u044F\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WinFormsApp1 (\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A)\\WinFormsApp1\\SearchCarForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\SearchCarForm.cs",
+              "ToolTip": "D:\\\u041B\u0435\u0442\u043D\u044F\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WinFormsApp1 (\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A)\\WinFormsApp1\\SearchCarForm.cs",
+              "RelativeToolTip": "WinFormsApp1\\SearchCarForm.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAwwH8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T14:43:07.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditCarForm.Designer.cs",
+              "DocumentMoniker": "D:\\\u041B\u0435\u0442\u043D\u044F\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WinFormsApp1 (\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A)\\WinFormsApp1\\EditCarForm.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\EditCarForm.Designer.cs",
+              "ToolTip": "D:\\\u041B\u0435\u0442\u043D\u044F\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WinFormsApp1 (\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A)\\WinFormsApp1\\EditCarForm.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\EditCarForm.Designer.cs",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAgwOYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T12:46:26.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditCarForm.cs",
+              "DocumentMoniker": "D:\\\u041B\u0435\u0442\u043D\u044F\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WinFormsApp1 (\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A)\\WinFormsApp1\\EditCarForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\EditCarForm.cs",
+              "ToolTip": "D:\\\u041B\u0435\u0442\u043D\u044F\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WinFormsApp1 (\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A)\\WinFormsApp1\\EditCarForm.cs",
+              "RelativeToolTip": "WinFormsApp1\\EditCarForm.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T12:44:50.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddCarForm.Designer.cs",
+              "DocumentMoniker": "D:\\\u041B\u0435\u0442\u043D\u044F\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WinFormsApp1 (\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A)\\WinFormsApp1\\AddCarForm.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\AddCarForm.Designer.cs",
+              "ToolTip": "D:\\\u041B\u0435\u0442\u043D\u044F\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WinFormsApp1 (\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A)\\WinFormsApp1\\AddCarForm.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\AddCarForm.Designer.cs",
+              "ViewState": "AQIAANAAAAAAAAAAAAAgwPMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:26:24.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddCarForm.cs",
+              "DocumentMoniker": "D:\\\u041B\u0435\u0442\u043D\u044F\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WinFormsApp1 (\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A)\\WinFormsApp1\\AddCarForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\AddCarForm.cs",
+              "ToolTip": "D:\\\u041B\u0435\u0442\u043D\u044F\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WinFormsApp1 (\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A)\\WinFormsApp1\\AddCarForm.cs",
+              "RelativeToolTip": "WinFormsApp1\\AddCarForm.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwCAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:21:52.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeleteCarForm.cs",
+              "DocumentMoniker": "D:\\\u041B\u0435\u0442\u043D\u044F\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WinFormsApp1 (\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A)\\WinFormsApp1\\DeleteCarForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\DeleteCarForm.cs",
+              "ToolTip": "D:\\\u041B\u0435\u0442\u043D\u044F\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WinFormsApp1 (\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A)\\WinFormsApp1\\DeleteCarForm.cs",
+              "RelativeToolTip": "WinFormsApp1\\DeleteCarForm.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAqwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T14:55:35.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteCarForm.Designer.cs",
+              "DocumentMoniker": "D:\\\u041B\u0435\u0442\u043D\u044F\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WinFormsApp1 (\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A)\\WinFormsApp1\\DeleteCarForm.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\DeleteCarForm.Designer.cs",
+              "ToolTip": "D:\\\u041B\u0435\u0442\u043D\u044F\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WinFormsApp1 (\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A)\\WinFormsApp1\\DeleteCarForm.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\DeleteCarForm.Designer.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAgwFQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T14:55:30.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\\u041B\u0435\u0442\u043D\u044F\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WinFormsApp1 (\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A)\\WinFormsApp1\\Menu.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Menu.cs",
+              "ToolTip": "D:\\\u041B\u0435\u0442\u043D\u044F\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WinFormsApp1 (\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A)\\WinFormsApp1\\Menu.cs",
+              "RelativeToolTip": "WinFormsApp1\\Menu.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwIkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:19:41.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SearchCarForm.Designer.cs",
+              "DocumentMoniker": "D:\\\u041B\u0435\u0442\u043D\u044F\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WinFormsApp1 (\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A)\\WinFormsApp1\\SearchCarForm.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\SearchCarForm.Designer.cs",
+              "ToolTip": "D:\\\u041B\u0435\u0442\u043D\u044F\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WinFormsApp1 (\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A)\\WinFormsApp1\\SearchCarForm.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\SearchCarForm.Designer.cs",
+              "ViewState": "AQIAANUAAAAAAAAAAAAowPoBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T14:51:46.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menu.Designer.cs",
+              "DocumentMoniker": "D:\\\u041B\u0435\u0442\u043D\u044F\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WinFormsApp1 (\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A)\\WinFormsApp1\\Menu.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Menu.Designer.cs",
+              "ToolTip": "D:\\\u041B\u0435\u0442\u043D\u044F\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WinFormsApp1 (\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A)\\WinFormsApp1\\Menu.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Menu.Designer.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAgwG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:17:04.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddCarForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "D:\\\u041B\u0435\u0442\u043D\u044F\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WinFormsApp1 (\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A)\\WinFormsApp1\\AddCarForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\AddCarForm.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\WinFormsApp1\\WinFormsApp1\\AddCarForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T07:21:21.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SearchCarForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "D:\\\u041B\u0435\u0442\u043D\u044F\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WinFormsApp1 (\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A)\\WinFormsApp1\\SearchCarForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\SearchCarForm.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\WinFormsApp1\\WinFormsApp1\\SearchCarForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T14:43:05.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Menu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "D:\\\u041B\u0435\u0442\u043D\u044F\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WinFormsApp1 (\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A)\\WinFormsApp1\\Menu.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Menu.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\WinFormsApp1\\WinFormsApp1\\Menu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T07:21:21.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditCarForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "D:\\\u041B\u0435\u0442\u043D\u044F\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WinFormsApp1 (\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A)\\WinFormsApp1\\EditCarForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\EditCarForm.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\WinFormsApp1\\WinFormsApp1\\EditCarForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T07:21:21.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeleteCarForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "D:\\\u041B\u0435\u0442\u043D\u044F\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\WinFormsApp1 (\u0438\u0441\u0445\u043E\u0434\u043D\u0438\u043A)\\WinFormsApp1\\DeleteCarForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\DeleteCarForm.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\WinFormsApp1\\WinFormsApp1\\DeleteCarForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T07:21:21.693Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

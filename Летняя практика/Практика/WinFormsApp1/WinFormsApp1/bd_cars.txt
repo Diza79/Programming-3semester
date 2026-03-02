@@ -1,0 +1,56 @@
+Car #1
+Brand: Speedster
+Country: Fastland
+Year: 2015
+New or Used: 1
+Price: 30000
+Quantity: 3
+Car #2
+Brand: Oldtimer
+Country: Nostalgia
+Year: 1965
+New or Used: 0
+Price: 12000
+Quantity: 2
+Car #3
+Brand: Electra
+Country: Futureland
+Year: 2020
+New or Used: 1
+Price: 25000
+Quantity: 4
+Car #4
+Brand: Compacto
+Country: Smallville
+Year: 2018
+New or Used: 1
+Price: 18000
+Quantity: 8
+Car #5
+Brand: SUVster
+Country: Mountania
+Year: 2019
+New or Used: 1
+Price: 22000
+Quantity: 7
+Car #6
+Brand: ClassicRide
+Country: Retrocity
+Year: 1975
+New or Used: 0
+Price: 8000
+Quantity: 3
+Car #7
+Brand: Sporty
+Country: Speedland
+Year: 2021
+New or Used: 1
+Price: 40000
+Quantity: 2
+Car #8
+Brand: FamilyVan
+Country: Suburbia
+Year: 2016
+New or Used: 1
+Price: 26000
+Quantity: 5
